@@ -3,7 +3,7 @@
 - 🧐 I am a graduate student at Kogakuin Univ. I belongs to [Intaractive Mmedia Lab](https://github.com/kitayama-lab).
 - 🔭 I’m currently working on ... Applications of "utilize" the LLM <!-- repository link e.g. [Voice Conversion](https://github.com/Otatsu0319/StarGAN-VC2-tf) -->
 - 🌱 I'm currently learning ... UI/UX, Software Test, System Architecture
-- 🕊 How to reach me: My __*Twitter*__ account [Preparing...](Preparing...)
+- 🕊 How to reach me: My __*Twitter*__ account [@otatsu0319](https://x.com/otatsu0319)
 
 ## 😎 Skills
 
